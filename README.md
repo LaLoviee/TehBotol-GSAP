@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-- Framework: Next.js (App Router) / React
+- Framework: Next.js
 - Animation: GSAP & @gsap/react (ScrollTrigger)
 - Styling: Tailwind CSS
 - Language: TypeScript
